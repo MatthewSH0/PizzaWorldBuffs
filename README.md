@@ -1,3 +1,5 @@
+**THIS IS A REUPLOAD OF JULIETTES PWB FROM GITLAB, I AM NOT THE ORIGINAL OWNER**
+
 # 🍕 PizzaWorldBuffs
 
 ## Updated PizzaWorldBuffs to use `.server info`
